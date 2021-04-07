@@ -1,4 +1,4 @@
-# Kambria-x-Kidspire
+# Kambria x Kidspire
 
 ## Knowledge tracing
 
