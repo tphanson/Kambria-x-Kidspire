@@ -12,6 +12,7 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 ### References
 
 [1] https://paperswithcode.com/task/knowledge-tracing/codeless
+
 [2] http://squirrelai.com/product/ials
 
 ## Diagnostic Questions
@@ -38,7 +39,9 @@ learning curriculum recommendations.
 ### References
 
 [1] https://arxiv.org/pdf/1909.12913.pdf
+
 [2] https://iopscience.iop.org/article/10.1088/1742-6596/1413/1/012021/pdf
+
 [3] https://www.sciencedirect.com/science/article/pii/S1877050916306147
 
 ## Stress Prediction
